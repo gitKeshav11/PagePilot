@@ -1,7 +1,4 @@
 # 🚀 PagePilot – Library Management System
-
-![Mini Book Animation](https://media.giphy.com/media/3o6ZsX6Zt0KpR8qg7K/giphy.gif)
-
 ![PagePilot Banner](https://img.shields.io/badge/PagePilot-Library%20Management%20System-blue?style=for-the-badge)
 
 **PagePilot** is a modern, intuitive, and user-friendly Library Management System designed to streamline library operations for schools, colleges, and small libraries. With PagePilot, librarians can manage books, track issued and returned items, and monitor member activities effortlessly.
@@ -105,9 +102,22 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
+<a href="https://github.com/gitKeshav11/FortressFinance/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/FortressFinance" />
+</a>
 
-This project is **open-source** and available under the MIT License.
+**Keshav Upadhyay**
+
+## 📞 Contact
+
+Backend Developer (Java & Spring Boot)
+
+📧 Email: keshavupadhyayje@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/
+
+🐙 GitHub: https://github.com/gitKeshav11
 
 ---
 
