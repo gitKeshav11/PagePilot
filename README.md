@@ -1,6 +1,7 @@
 # 🚀 PagePilot – Library Management System
 
-![Animated Books](https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif)
+![Mini Book Animation](https://media.giphy.com/media/3o6ZsX6Zt0KpR8qg7K/giphy.gif)
+
 ![PagePilot Banner](https://img.shields.io/badge/PagePilot-Library%20Management%20System-blue?style=for-the-badge)
 
 **PagePilot** is a modern, intuitive, and user-friendly Library Management System designed to streamline library operations for schools, colleges, and small libraries. With PagePilot, librarians can manage books, track issued and returned items, and monitor member activities effortlessly.
